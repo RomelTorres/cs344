@@ -1,7 +1,8 @@
 cs344
 =====
 
-Introduction to Parallel Programming class code
+Solutions to the Parallel Programming class code from Udacity
+
 
 # Building on OS X
 
